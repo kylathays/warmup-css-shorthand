@@ -1,0 +1,46 @@
+
+body {
+    margin: 0;
+}
+
+.plain-abbr {
+    text-decoration: none;
+}
+
+.site-id {
+    margin: 0 0 40px 0;
+    
+}
+
+.em {
+    font-style: normal;
+    font-weight: 900;
+}
+
+.site-header {
+    background-color: #eee;
+    padding: 30px;
+    border-bottom: 4px solid #000;
+
+}
+
+.main-content {
+    padding: 0 30px;
+}
+
+.site-footer {
+    padding: 30px;
+    background-color: #c00;
+    color: white;
+}
+
+.hyperlink {
+    color:white;
+    text-decoration: none;
+
+}
+
+.footer-links {
+    list-style-type: none;
+    padding: 0;
+}
